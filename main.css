@@ -16,16 +16,11 @@ footer {
   height: 20vh;
   background-color: lightblue;
 }
-.navbar-nav {
-  width: 95vw;
-  display: flex;
-  justify-content: space-between;
-}
 .menu {
   display: flex;
 }
 .menu2 {
-  /* width: 100vw; */
+  width: 100%;
   display: flex;
   justify-content: center;
 }
