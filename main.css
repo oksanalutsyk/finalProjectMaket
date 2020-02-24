@@ -25,7 +25,7 @@ footer {
   display: flex;
 }
 .menu2 {
-  width: 100vw;
+  /* width: 100vw; */
   display: flex;
   justify-content: center;
 }
@@ -62,8 +62,8 @@ aside {
 .paginator{
     text-align: center;
 }
-.filters{
-    width: 200px;
+.sort{
+    width: 250px;
     display: flex;
     justify-content: space-around;
 }
